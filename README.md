@@ -12,6 +12,13 @@ this will also serve as a place to test experimental builds and parts
 
 # Your Own Build:
 
+file names will be as follows:
+	
+	- {original_filename}{(#_times_to_print)}.{Author}.{version}
+	ex:
+		- X_EndStop(x1).CarlFeniak.V2.stl
+		- V-Wheel_Spacer(x16).CarlFeniak.v1.stl
+
 ### Folder structure MIGHT be as follows, SUBJECT TO CHANGE
 
 {Your Name - Your Build}/
