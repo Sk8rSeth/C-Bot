@@ -11,8 +11,6 @@ this will also serve as a place to test experimental builds and parts
 {Your Build}
 
 	- Parts/
-		- Main_Frame/
-		- 
 
 	- Other_Files [BOM, etc]/
 
