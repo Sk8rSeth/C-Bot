@@ -1,6 +1,9 @@
 # C-Bot
 
-this repo will serve as the file hosting/iterating source for Carl's C-Bot and its various incarnations
+This repo will serve as the file hosting/iterating source for Carl's C-Bot and its various incarnations.
+To contribute to this build, YOUR build must be based on Carl's original c-bot design.
+It must be CoreXY mechanics, and most importantly, opensource.
+
 
 ### Anyone is welcome to fork, pull or otherwise grab these files
 
